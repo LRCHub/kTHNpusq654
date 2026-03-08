@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ホット&コールド",
+  "base_artist": "ケイティ・ペリー",
+  "createdAt": "2026-03-08T19:51:24.045620Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Hot N Cold",
+      "artist": "Katy Perry",
+      "has_synced": false,
+      "path": "select/pl_01_Hot_N_Cold_Katy_Perry.txt"
+    }
+  ]
+}
